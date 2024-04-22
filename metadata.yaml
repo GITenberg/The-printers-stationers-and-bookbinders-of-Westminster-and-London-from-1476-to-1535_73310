@@ -1,5 +1,8 @@
 _repo: The-printers-stationers-and-bookbinders-of-Westminster-and-London-from-1476-to-1535_73310
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73310-h/images/cover.jpg
 creator:
   author:
     agent_name: Duff, E. Gordon (Edward Gordon)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48580
     wikipedia: https://en.wikipedia.org/wiki/Edward_Gordon_Duff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73310#The-printers-stationers-and-bookbinders-of-Westminster-and-London-from-1476-to-1535
 gutenberg_issued: '2024-04-01'
 gutenberg_type: Text
 identifiers:
